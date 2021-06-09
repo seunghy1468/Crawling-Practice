@@ -91,3 +91,6 @@ driver.close()
 ```
 * google 이미지는 처음에는 50장의 이미지만 가지고있어서 다운을 받으면 50장밖에 못받는다.
 * 즉 50장 이상 다운받으려면 스크롤을 내리면서 다운해야한다.
+    * 스크롤을 내리는 code 필요  
+
+![캡처](https://user-images.githubusercontent.com/47622991/121333224-92f60f80-c953-11eb-9efe-dde3e81c5542.PNG)
